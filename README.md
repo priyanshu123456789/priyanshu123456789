@@ -8,7 +8,7 @@
 </a>
 --> 
 
-![](https://visitor-badge.glitch.me/badge?page_id=shivaylamba.shivaylamba)
+![](https://visitor-badge.glitch.me/badge?page_id=priyanshuhaldar007.priyanshuhaldar007)
 Hi, I'm Priyanshu Haldar, a Web Developer and Open Source Developer🚀 from India.
 <br />
 
