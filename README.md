@@ -21,7 +21,7 @@ Hi, I'm Priyanshu Haldar, a Web Developer and Open Source Developer🚀 from Ind
 - 🌱 I’m currently learning ... PHP!
 - 👯 I’m looking to collaborate on ... Any Open Source Project involving Web Development
 - 🤔 I’m looking for help with ... Competitive Programming concepts
-- 📫 How to reach me: Follow me on these platforms! : Twitter : @howdevelop / Linkedin : @shivaylamba / Github : @shivaylamba
+- 📫 How to reach me: Follow me on these platforms! : Twitter : <a href="https://twitter.com/PriyanshuHalda5">@PriyanshuHalda5</a> / Linkedin : <a href="https://www.linkedin.com/in/priyanshu-haldar-61b2731aa/">@Priyanshuhaldar</a> / Github : <a href="https://github.com/priyanshuhaldar007">@priyanshuhaldar</a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Javascript >> Python
 
