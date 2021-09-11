@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/github/followers/priyanshuhaldar007?label=Follow&style=social)[(https://github.com/priyanshuhaldar007">
   <img src="https://shields.io/github/stars/priyanshuhaldar007?label=Stars&style=social)[(https://github.com/priyanshuhaldar007">
 </p>
-<tt><h3>I'm a Web Developer and Open Source Developer🚀 from India.</h3></tt>
+<h3>I'm a Web Developer and Open Source Developer🚀 from India.</h3>
 <br />
 
 
@@ -21,26 +21,26 @@
 <p align="center">
 <i><b>Languages Currently Learning:</b></i> 
   <br><br>
-  
-  <code><img height="20" src="icons/js_icon.svg"></code>
-  <code><img height="20" src="icons/jquery_icon.svg"></code>
-  <code><img height="20" src="icons/html5_icon.svg"></code>
-  <code><img height="20" src="icons/bootstrap_icon.svg"></code>
-  <code><img height="20" src="icons/c.svg"></code>
-  <code><img height="20" src="icons/css3_icon.svg"></code>
-  <code><img height="20" src="icons/git_icon.svg"></code>
-  <code><img height="20" src="icons/github_icon.svg"></code>
-  <code><img height="20" src="icons/java_icon.svg"></code>
-  <code><img height="20" src="icons/django.svg"></code>
-  <code><img height="20" src="icons/laravel.svg"></code>
-  <code><img height="20" src="icons/mongodb_icon.svg"></code>
-  <code><img height="20" src="icons/mysql_icon.svg"></code>
-  <code><img height="20" src="icons/nodejs_icon.svg"></code>
-  <code><img height="20" src="icons/php.svg"></code>
-  <code><img height="20" src="icons/python_icon.svg"></code>
-  <code><img height="20" src="icons/react_icon.svg"></code>
+  <div align="center">
+  <code><img height="30" src="icons/js_icon.svg"></code>
+  <code><img height="30" src="icons/jquery_icon.svg"></code>
+  <code><img height="30" src="icons/html5_icon.svg"></code>
+  <code><img height="30" src="icons/bootstrap_icon.svg"></code>
+  <code><img height="30" src="icons/c.svg"></code>
+  <code><img height="30" src="icons/css3_icon.svg"></code>
+  <code><img height="30" src="icons/git_icon.svg"></code>
+  <code><img height="30" src="icons/github_icon.svg"></code>
+  <code><img height="30" src="icons/java_icon.svg"></code>
+  <code><img height="30" src="icons/django.svg"></code>
+  <code><img height="30" src="icons/laravel.svg"></code>
+  <code><img height="30" src="icons/mongodb_icon.svg"></code>
+  <code><img height="30" src="icons/mysql_icon.svg"></code>
+  <code><img height="30" src="icons/nodejs_icon.svg"></code>
+  <code><img height="30" src="icons/php.svg"></code>
+  <code><img height="30" src="icons/python_icon.svg"></code>
+  <code><img height="30" src="icons/react_icon.svg"></code>
 <!--   <code><img height="20" src="icons/js.svg"></code> -->
-  
+  </div>
 </p>
 
 <hr>
