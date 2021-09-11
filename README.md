@@ -16,21 +16,34 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Javascript >> Python
 
+<hr>
 
-**Languages and Tools:**  
+<p align="center">
+<i><b>Languages Currently Learning:</b></i> 
+  <br><br>
+  
+  <code><img height="20" src="icons/js_icon.svg"></code>
+  <code><img height="20" src="icons/jquery_icon.svg"></code>
+  <code><img height="20" src="icons/html5_icon.svg"></code>
+  <code><img height="20" src="icons/bootstrap_icon.svg"></code>
+  <code><img height="20" src="icons/c.svg"></code>
+  <code><img height="20" src="icons/css3_icon.svg"></code>
+  <code><img height="20" src="icons/git_icon.svg"></code>
+  <code><img height="20" src="icons/github_icon.svg"></code>
+  <code><img height="20" src="icons/java_icon.svg"></code>
+  <code><img height="20" src="icons/django.svg"></code>
+  <code><img height="20" src="icons/laravel.svg"></code>
+  <code><img height="20" src="icons/mongodb_icon.svg"></code>
+  <code><img height="20" src="icons/mysql_icon.svg"></code>
+  <code><img height="20" src="icons/nodejs_icon.svg"></code>
+  <code><img height="20" src="icons/php.svg"></code>
+  <code><img height="20" src="icons/python_icon.svg"></code>
+  <code><img height="20" src="icons/react_icon.svg"></code>
+<!--   <code><img height="20" src="icons/js.svg"></code> -->
+  
+</p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/expressjs/expressjs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<hr>
 
 ![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=priyanshuhaldar007&show_icons=true&hide_border=true)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuhaldar007&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
