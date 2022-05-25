@@ -9,7 +9,7 @@
 
 
 - 🔭 I’m currently working on ... Open Source!
-- 🌱 I’m currently learning ... <strong><tt>PHP</tt></strong>!
+- 🌱 I’m currently learning ... <strong><tt>JS</tt></strong>!
 - 👯 I’m looking to collaborate on ... Any Open Source Project involving Web Development
 - 🤔 I’m looking for help with ... Competitive Programming concepts
 - 📫 How to reach me: Follow me on these platforms! :<br> &nbsp;&nbsp;&nbsp; &#9733; Twitter : <a href="https://twitter.com/PriyanshuHalda5">@PriyanshuHalda5</a><br> &nbsp;&nbsp;&nbsp; &#9733; Linkedin : <a href="https://www.linkedin.com/in/priyanshu-haldar-61b2731aa/">@Priyanshuhaldar</a><br> &nbsp;&nbsp;&nbsp; &#9733; Github : <a href="https://github.com/priyanshuhaldar007">@priyanshuhaldar007</a>
